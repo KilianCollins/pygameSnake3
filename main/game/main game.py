@@ -4,7 +4,7 @@ import random
 # from main import Setup
 
 pg.init()
-
+k =0
 SW, SH = 800, 800
 
 # gridblock size
